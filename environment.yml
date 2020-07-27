@@ -1,0 +1,15 @@
+name: rings workshop
+channels:
+  - bioconda
+dependencies:
+  - perl
+  - pigz
+  - spades >=3.9,<=3.13.0
+  - bowtie2 >=2.3
+  - blast >=2.3
+  - numpy >=1.16.4
+  - scipy >=1.3.0
+  - sympy >=1.4
+  - requests
+  - getorganelle
+  
